@@ -3,6 +3,8 @@
 Original author of the palenight theme:
 https://github.com/whizkydee/vscode-palenight-theme
 
+![Mozilla Add-on](https://img.shields.io/amo/users/palenight-inspired?style=for-the-badge)
+
 ## How to build
 
 ```
