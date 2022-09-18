@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Palenight inspired",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(41, 45, 62)",
+      "toolbar_text": "rgb(72, 128, 195)",
+      "frame": "rgb(41, 45, 62)",
+      "tab_background_text": "rgb(103, 110, 149)",
+      "toolbar_field": "rgb(41, 44, 57)",
+      "toolbar_field_text": "rgb(72, 128, 195)",
+      "tab_line": "rgb(171, 71, 188)",
+      "popup": "rgb(41, 44, 57)",
+      "popup_text": "rgb(72, 128, 195)",
+      "tab_loading": "rgb(171, 71, 188)"
+    }
+  }
+}
